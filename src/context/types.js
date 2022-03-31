@@ -1,0 +1,9 @@
+export const UPDATE_USERS = 'UPDATE_USERS';
+export const APPEND_USERS = 'APPEND_USERS';
+export const CLEAR_USERS = 'CLEAR_USERS';
+export const SET_LOADING = 'SET_LOADING';
+export const UNSET_LOADING = 'UNSET_LOADING';
+export const SET_QUERY_DATA = 'SET_QUERY_DATA';
+export const SET_PAGE_COUNT = 'SET_PAGE_COUNT';
+export const RESET_USERS_DATA = 'RESET_USERS_DATA';
+export const UPDATE_CURR_PAGE = 'UPDATE_CURR_PAGE';
